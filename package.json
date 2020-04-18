@@ -1,0 +1,16 @@
+{
+  "name": "mudleysend",
+  "version": "1.0.0",
+  "description": "send mudley token via excel file",
+  "main": "sendmudley.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "orzpond",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "stellar-sdk": "^3.3.0",
+    "xlsx": "^0.15.4"
+  }
+}
